@@ -1,4 +1,4 @@
-package entities;
+package com.orsegups.course.entities;
 
 import jakarta.persistence.*;
 
