@@ -11,7 +11,7 @@ public class CourseApplication {
 
 		SpringApplication.run(CourseApplication.class, args);
 
-		System.out.println("done!");
+		System.out.println("------------------VAI CAVALOOOOOOO--------------------------TA FUNCIONANDO----------------------------");
 
 	}
 
