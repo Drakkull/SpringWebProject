@@ -12,6 +12,7 @@ public class CourseApplication {
 		SpringApplication.run(CourseApplication.class, args);
 
 		System.out.println("------------------VAI CAVALOOOOOOO--------------------------TA FUNCIONANDO----------------------------");
+		System.out.println("READY TO DEPLOY, BABY!");
 
 	}
 
